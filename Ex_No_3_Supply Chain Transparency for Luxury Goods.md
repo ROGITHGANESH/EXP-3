@@ -1,3 +1,4 @@
+# EXPERIMENT 3:  Supply Chain Transparency for Luxury Goods
 # Aim:
 To develop a smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
 # Algorithm:
@@ -57,6 +58,7 @@ Ownership is transferred at every checkpoint.
 
 Buyers can check the authenticity before purchasing.
 
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/9749836a-6207-461e-a5bf-741129691bde" />
 
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
@@ -65,4 +67,4 @@ Helps prevent counterfeit luxury goods.
 Teaches real-world supply chain use cases.
 
 # RESULT : 
-
+THUS THE SUPPLY CHAIN HAS BEEN IMPLEMENTED SUCCESSFULLY
